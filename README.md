@@ -4,6 +4,8 @@
 
 A CLI tool that interviews you, analyzes your writing style, and generates a Claude Code skill that captures your actual voice — vocabulary, punctuation quirks, sentence structure, all of it.
 
+![write-like-me TUI](screenshot.png)
+
 ## How it works
 
 ```
